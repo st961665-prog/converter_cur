@@ -87,3 +87,6 @@ else:
 
 st.markdown("---")
 st.caption("Данные предоставлены сервисом Frankfurter-API")
+
+
+# ССЫЛКА НА РЕПОЗИТОРИЙ ДАННОГО ПРОЕКТА: https://github.com/st961665-prog/converter_cur.git
